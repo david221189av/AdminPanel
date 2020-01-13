@@ -1,0 +1,18 @@
+{
+    "name": "edeskmd/panel",
+    "description": "This will be admin panel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Anatoly",
+            "email": "david221189av@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "EdeskMd\\Panel\\": "src/"
+        }
+    }
+}
